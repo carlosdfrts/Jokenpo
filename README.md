@@ -17,3 +17,7 @@ This is a simple and fun Python program designed to enhance and understand condi
 
 ## Files
 • Jokenpo.py: Contains the program's one and only main function, where the user can play a game of Rock, Paper, Scissors against the computer.
+
+## Contribution
+
+Contributions are welcome! If you encounter a problem, have a suggestion, or want to improve the code, feel free to open an issue or submit a pull request.
